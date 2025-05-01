@@ -1,4 +1,3 @@
-```markdown
 # Neovim Configuration for Efficient Development
 
 This is my personal Neovim (nvim) configuration aimed at improving the development experience. It includes settings and tools like auto-completion, auto-formatting, and various plugins to boost developer productivity.
@@ -93,4 +92,3 @@ If you'd like to improve this configuration or add new features, feel free to op
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more information.
-```
